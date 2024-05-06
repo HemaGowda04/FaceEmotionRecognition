@@ -1,0 +1,8 @@
+open any file on vs code
+start new terminal 
+change it to cmd prompt from powershell
+type the below and press enter.
+
+\opencvApp>python -m venv myenv
+\opencvApp>myenv\Scripts\activate
+\opencvApp>pip install opencv-python

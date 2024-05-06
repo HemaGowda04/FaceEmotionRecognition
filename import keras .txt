@@ -1,0 +1,14 @@
+open cmd prompt, type python hit enter
+again open cmd prompt
+    type pip install tensorflow and hit enter
+wait for download to complete
+    type pip install keras
+after completetion close
+
+
+open vscode 
+search python extension and install
+type
+    import tensorflow as tf
+    print("TensorFlow version:", tf._version_)
+and save it in any .py file
